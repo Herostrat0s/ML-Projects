@@ -1,3 +1,4 @@
 
 sonar.all-data.csv
 .DS_Store
+.ipynb_checkpoints/sonar-checkpoint.ipynb
