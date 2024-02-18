@@ -2,3 +2,6 @@
 sonar.all-data.csv
 .DS_Store
 .ipynb_checkpoints/sonar-checkpoint.ipynb
+Placement_Dataset.csv
+.ipynb_checkpoints/Diabetes - Support Vector Machine Model -checkpoint.ipynb
+diabetes.csv
