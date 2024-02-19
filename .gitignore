@@ -5,3 +5,4 @@ sonar.all-data.csv
 Placement_Dataset.csv
 .ipynb_checkpoints/Diabetes - Support Vector Machine Model -checkpoint.ipynb
 diabetes.csv
+*.csv
